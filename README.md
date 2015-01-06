@@ -2,8 +2,6 @@
 
 This will be a paragraph.
 
-## Ipsum Below
+## Website Contents
 
-This is ipsum text. Thanks!
-
-EVEN MORE
+Stuff
